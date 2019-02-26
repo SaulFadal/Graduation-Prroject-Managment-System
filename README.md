@@ -1,5 +1,6 @@
 # Graduation-Prroject-Managment-System
-This project addresses graduation project Procedures and its related
+
+This project addresses graduation project procedures and its related
 processes in FCIS (Faculty of Computer Science and Information
 System), making it electronically instead of the current process which
 mainly depends on setting up meetings with students and requires
@@ -10,7 +11,7 @@ and GPC (Graduation Project Committee).
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 
-This system represents an integration between Creative Tim's Material Design, We Code realtime chat system by AfikDeri, and our own backend code.
+This system represents an integration between Creative Tim's Material Dashboard, We Code realtime chat system by AfikDeri, and our own backend code.
 
 To set up this system into your PC:
 - Clone this repository.
