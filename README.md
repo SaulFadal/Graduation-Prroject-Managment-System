@@ -23,8 +23,8 @@ This system represents an integration between Creative Tim's Material Dashboard,
 * The system was developed by students, so it might contain errors and bugs. Creating this repository was for the sake of documentation.
 
 Contributers:
-- Souleiman M. Hassan.
--Ibrahim A. Bamuqabil.
+
+-Souleiman M. Hassan & Ibrahim A. Bamuqabil.
 
 
 
