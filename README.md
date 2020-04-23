@@ -13,14 +13,7 @@ and GPC (Graduation Project Committee).
 
 This system represents an integration between Creative Tim's Material Dashboard, We Code realtime chat system by AfikDeri, and our own backend code.
 
-To set up this system into your PC:
-- Clone this repository.
-- Modify .env.example file. (DB name,password, Pusher details).
-- run $ composer update.
-- run $ npm install.
-- run $ php artisan key:generate
-- run $ php artisan migrate (After creating a new database)
-- run $ php artisan serve
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -28,6 +21,10 @@ To set up this system into your PC:
 - We code (AfikDeri) realtime chat system : https://www.youtube.com/watch?v=5sXmfwnxfjA
 -------------------------------------------------------------------------------------------------------------------------------------------
 * The system was developed by students, so it might contain errors and bugs. Creating this repository was for the sake of documentation.
+
+Contributers:
+- Souleiman M. Hassan.
+-Ibrahim A. Bamuqabil.
 
 
 
